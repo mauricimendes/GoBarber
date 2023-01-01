@@ -51,7 +51,7 @@
     "jest": "^26.1.0",
     "ts-jest": "^26.1.2",
     "ts-node-dev": "^1.0.0-pre.49",
-    "tsconfig-paths": "^3.9.0",
+    "tsconfig-paths": "^3.10.1",
     "typescript": "^3.9.5"
   }
 }
